@@ -35,7 +35,7 @@
 
 ・ Microsoft Malware Classification Challenge
 
-#####　スパムメール
+##### スパムメール
 ・ 2007 TREC Public Spam Corpus
 
 ・ SPAM list
