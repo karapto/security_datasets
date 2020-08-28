@@ -1,18 +1,18 @@
 # security_datasets
 
-研究やワークショップで頻繁に使用されるセキュリティに関するデータセット
+Popular datasets on security used in research and workshops
 
-### 索引
+### List
 
-・ [不正アクセス](#不正アクセス)
+・ [Intrusion Detection](#Intrusion Detection)
 
-・ [マルウェア](#マルウェア)
+・ [Malware](#Malware)
 
-・ [スパムメール](#スパムメール)
+・ [Spam Mail](#Spam Mail)
 
-### データセット
+### Datasets
 
-##### 不正アクセス
+##### Intrusion Detection
 ・ KDD Cup 1999 Data 
 
 ・ Canadian Institute for Cybersecurity datasets
@@ -25,7 +25,7 @@
 
 ・ IoT devices captures
 
-##### マルウェア
+##### Malware 
 ・ Malware Training Sets
 
 ・ Stratosphere IPS
@@ -36,7 +36,7 @@
 
 ・ Microsoft Malware Classification Challenge
 
-##### スパムメール
+##### Spam Mail 
 ・ 2007 TREC Public Spam Corpus
 
 ・ SPAM list
