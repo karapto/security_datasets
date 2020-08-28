@@ -4,15 +4,15 @@ Popular datasets on security used in research and workshops
 
 ### List
 
-・ [Intrusion Detection](#Intrusion Detection)
+・ [Intrusion Detection](#Intrusion_Detection)
 
 ・ [Malware](#Malware)
 
-・ [Spam Mail](#Spam Mail)
+・ [Spam Mail](#Spam_Mail)
 
 ### Datasets
 
-##### Intrusion Detection
+##### Intrusion_Detection
 ・ KDD Cup 1999 Data 
 
 ・ Canadian Institute for Cybersecurity datasets
@@ -36,7 +36,7 @@ Popular datasets on security used in research and workshops
 
 ・ Microsoft Malware Classification Challenge
 
-##### Spam Mail 
+##### Spam_Mail 
 ・ 2007 TREC Public Spam Corpus
 
 ・ SPAM list
