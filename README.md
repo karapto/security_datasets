@@ -40,3 +40,8 @@ Popular datasets on security used in research and workshops
 ・ 2007 TREC Public Spam Corpus
 
 ・ SPAM list
+
+##### Malicious Domains
+・ Malicious URLs Dataset 
+
+・ Malware Domain List
