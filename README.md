@@ -17,7 +17,7 @@ Popular datasets on security used in research and workshops
 ##### Intrusion_Detection
 ・ [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) [1]
 
-・ Canadian Institute for Cybersecurity datasets(https://www.unb.ca/cic/datasets/index.html)[2]
+・ [Canadian Institute for Cybersecurity datasets](https://www.unb.ca/cic/datasets/index.html)[2]
 
 ・ User-Computer Authentication Associations in Time
 
