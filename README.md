@@ -10,6 +10,8 @@ Popular datasets on security used in research and workshops
 
 ・ [Spam Mail](#Spam_Mail)
 
+・ [Malicious Domains](#Malicious_Domains)
+
 ### Datasets
 
 ##### Intrusion_Detection
@@ -41,7 +43,7 @@ Popular datasets on security used in research and workshops
 
 ・ SPAM list
 
-##### Malicious Domains
+##### Malicious_Domains
 ・ Malicious URLs Dataset 
 
 ・ Malware Domain List
