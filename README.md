@@ -19,7 +19,7 @@ Popular datasets on security used in research and workshops
 
 ・ [Canadian Institute for Cybersecurity datasets](https://www.unb.ca/cic/datasets/index.html)[2]
 
-・ User-Computer Authentication Associations in Time
+・ [User-Computer Authentication Associations in Time](https://csr.lanl.gov/data/auth/)[3]
 
 ・ Unified Host and Network Dataset 
 
@@ -52,3 +52,5 @@ Popular datasets on security used in research and workshops
 [1] Tavallaee, Mahbod, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. "A detailed analysis of the KDD CUP 99 data set." In 2009 IEEE symposium on computational intelligence for security and defense applications, pp. 1-6. IEEE, 2009.
 
 [2] Panigrahi, Ranjit, and Samarjeet Borah. "A detailed analysis of CICIDS2017 dataset for designing Intrusion Detection Systems." International Journal of Engineering & Technology 7, no. 3.24 (2018): 479-482.
+
+[3] Kent, Alexander D. "User-computer authentication associations in time." Los Alamos National Laboratory (2014).
