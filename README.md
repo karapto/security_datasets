@@ -1,4 +1,4 @@
-# security_datasets
+# Security Datasets
 
 Popular datasets on security used in research and workshops
 
@@ -21,7 +21,7 @@ Popular datasets on security used in research and workshops
 
 ・ [User-Computer Authentication Associations in Time](https://csr.lanl.gov/data/auth/)[3]
 
-・ Unified Host and Network Dataset 
+・ [Unified Host and Network Dataset](https://csr.lanl.gov/data/2017/)[4] 
 
 ・ CTU-13 Dataset
 
@@ -54,3 +54,5 @@ Popular datasets on security used in research and workshops
 [2] Panigrahi, Ranjit, and Samarjeet Borah. "A detailed analysis of CICIDS2017 dataset for designing Intrusion Detection Systems." International Journal of Engineering & Technology 7, no. 3.24 (2018): 479-482.
 
 [3] Kent, Alexander D. "User-computer authentication associations in time." Los Alamos National Laboratory (2014).
+
+[4] Patrick, Rubin-delanchy, and Turcotte Mellisa, eds. Data Science for Cyber-security. Vol. 3. World Scientific, 2018.
