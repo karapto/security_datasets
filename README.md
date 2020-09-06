@@ -23,7 +23,7 @@ Popular datasets on security used in research and workshops
 
 ・ [Unified Host and Network Dataset](https://csr.lanl.gov/data/2017/)[4] 
 
-・ CTU-13 Dataset
+・ [CTU-13 Dataset](https://www.stratosphereips.org/datasets-ctu13)[5]
 
 ・ IoT devices captures
 
@@ -56,3 +56,5 @@ Popular datasets on security used in research and workshops
 [3] Kent, Alexander D. "User-computer authentication associations in time." Los Alamos National Laboratory (2014).
 
 [4] Patrick, Rubin-delanchy, and Turcotte Mellisa, eds. Data Science for Cyber-security. Vol. 3. World Scientific, 2018.
+
+[5] Sebastian Garcia, Martin Grill, Jan Stiborek and Alejandro Zunino. "An empirical comparison of botnet detection methods", Computers and Security Journal, Elsevier. 2014. Vol 45, pp 100-123.
