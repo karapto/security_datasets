@@ -58,3 +58,5 @@ Popular datasets on security used in research and workshops
 [4] Patrick, Rubin-delanchy, and Turcotte Mellisa, eds. Data Science for Cyber-security. Vol. 3. World Scientific, 2018.
 
 [5] Sebastian Garcia, Martin Grill, Jan Stiborek and Alejandro Zunino. "An empirical comparison of botnet detection methods", Computers and Security Journal, Elsevier. 2014. Vol 45, pp 100-123.
+
+[6] Miettinen, Markus, Samuel Marchal, Ibbad Hafeez, N. Asokan, Ahmad-Reza Sadeghi, and Sasu Tarkoma. "Iot sentinel: Automated device-type identification for security enforcement in iot." In 2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS), pp. 2177-2184. IEEE, 2017.
