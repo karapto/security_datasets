@@ -61,4 +61,4 @@ Popular datasets on security used in research and workshops
 
 [6] Miettinen, Markus, Samuel Marchal, Ibbad Hafeez, N. Asokan, Ahmad-Reza Sadeghi, and Sasu Tarkoma. "Iot sentinel: Automated device-type identification for security enforcement in iot." In 2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS), pp. 2177-2184. IEEE, 2017.
 
-[7] Marco Ramilli,"Malware Training Sets: a machine learning dataset for everyone",<https://marcoramilli.com/2016/12/16/malware-training-sets-a-machine-learning-dataset-for-everyone/>,2016
+[7] Marco Ramilli,"Malware Training Sets: a machine learning dataset for everyone", <https://marcoramilli.com/2016/12/16/malware-training-sets-a-machine-learning-dataset-for-everyone/>, 2016
