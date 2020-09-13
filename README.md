@@ -32,7 +32,7 @@ Popular datasets on security used in research and workshops
 
 ・ [Stratosphere IPS](https://www.stratosphereips.org/)[8]
 
-・ The Drebin Dataset
+・ [The Drebin Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/)[9]
 
 ・ UNSW-NB15 data set
 
@@ -64,3 +64,5 @@ Popular datasets on security used in research and workshops
 [7] Marco Ramilli,"Malware Training Sets: a machine learning dataset for everyone", <https://marcoramilli.com/2016/12/16/malware-training-sets-a-machine-learning-dataset-for-everyone/>, 2016
 
 [8] Stratosphere. (2015). Stratosphere Laboratory Datasets. Retrieved March 13, 2020, from https://www.stratosphereips.org/datasets-overview
+
+[9] Daniel Arp, Michael Spreitzenbarth, Malte Huebner, Hugo Gascon, and Konrad Rieck "Drebin: Efficient and Explainable Detection of Android Malware in Your Pocket", 21th Annual Network and Distributed System Security Symposium (NDSS), February 2014
