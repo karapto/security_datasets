@@ -34,7 +34,7 @@ Popular datasets on security used in research and workshops
 
 ・ [The Drebin Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/)[9]
 
-・ UNSW-NB15 data set
+・ [UNSW-NB15 data set](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)[10]
 
 ・ Microsoft Malware Classification Challenge
 
@@ -66,3 +66,5 @@ Popular datasets on security used in research and workshops
 [8] Stratosphere. (2015). Stratosphere Laboratory Datasets. Retrieved March 13, 2020, from https://www.stratosphereips.org/datasets-overview
 
 [9] Daniel Arp, Michael Spreitzenbarth, Malte Huebner, Hugo Gascon, and Konrad Rieck "Drebin: Efficient and Explainable Detection of Android Malware in Your Pocket", 21th Annual Network and Distributed System Security Symposium (NDSS), February 2014
+
+[10] Moustafa, Nour, et al. "An Ensemble Intrusion Detection Technique based on proposed Statistical Flow Features for Protecting Network Traffic of Internet of Things." IEEE Internet of Things Journal (2018).
