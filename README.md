@@ -46,7 +46,7 @@ Popular datasets on security used in research and workshops
 ##### Malicious_Domains
 ・ Malicious URLs Dataset 
 
-・ Malware Domain List
+・ [Malware Domain List](https://www.malwaredomainlist.com/)[11]
 
 ### Citation
 [1] Tavallaee, Mahbod, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. "A detailed analysis of the KDD CUP 99 data set." In 2009 IEEE symposium on computational intelligence for security and defense applications, pp. 1-6. IEEE, 2009.
@@ -68,3 +68,5 @@ Popular datasets on security used in research and workshops
 [9] Daniel Arp, Michael Spreitzenbarth, Malte Huebner, Hugo Gascon, and Konrad Rieck "Drebin: Efficient and Explainable Detection of Android Malware in Your Pocket", 21th Annual Network and Distributed System Security Symposium (NDSS), February 2014
 
 [10] Moustafa, Nour, et al. "An Ensemble Intrusion Detection Technique based on proposed Statistical Flow Features for Protecting Network Traffic of Internet of Things." IEEE Internet of Things Journal (2018).
+
+[11] List, Malware Domain. "Malware Domain List frequent asked questions." (2013).
