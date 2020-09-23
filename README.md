@@ -27,6 +27,8 @@ Popular datasets on security used in research and workshops
 
 ・ [IoT devices captures](https://research.aalto.fi/en/datasets/iot-devices-captures)[6]
 
+・ [Splunk Security Dataset](https://live.splunk.com/splunk-security-dataset-project)
+
 ##### Malware 
 ・ [Malware Training Sets](https://marcoramilli.com/2016/12/16/malware-training-sets-a-machine-learning-dataset-for-everyone/)[7]
 
