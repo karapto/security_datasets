@@ -51,7 +51,7 @@ Popular datasets on security used in research and workshops
 ・ [Malware Domain List](https://www.malwaredomainlist.com/)[11]
 
 ###### Dark web
-・ [CIC-Darknet2020] (https://www.unb.ca/cic/datasets/darknet2020.html)
+・ [CIC-Darknet2020](https://www.unb.ca/cic/datasets/darknet2020.html)
 
 ### Citation
 [1] Tavallaee, Mahbod, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. "A detailed analysis of the KDD CUP 99 data set." In 2009 IEEE symposium on computational intelligence for security and defense applications, pp. 1-6. IEEE, 2009.
