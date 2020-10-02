@@ -50,6 +50,8 @@ Popular datasets on security used in research and workshops
 
 ・ [Malware Domain List](https://www.malwaredomainlist.com/)[11]
 
+・ [Malicious and Benign Websites](https://www.kaggle.com/xwolf12/malicious-and-benign-websites)[12]
+
 ###### Dark web
 ・ [CIC-Darknet2020](https://www.unb.ca/cic/datasets/darknet2020.html)
 
@@ -75,3 +77,5 @@ Popular datasets on security used in research and workshops
 [10] Moustafa, Nour, et al. "An Ensemble Intrusion Detection Technique based on proposed Statistical Flow Features for Protecting Network Traffic of Internet of Things." IEEE Internet of Things Journal (2018).
 
 [11] List, Malware Domain. "Malware Domain List frequent asked questions." (2013).
+
+[12] rcuqui, C., Navarro, A., Osorio, J., & Garcıa, M. (2017). Machine Learning Classifiers to Detect Malicious Websites. CEUR Workshop Proceedings. Vol 1950, 14-17.
