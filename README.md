@@ -10,7 +10,7 @@ Popular datasets on security used in research and workshops
 
 ・ [Spam Mail](#Spam_Mail)
 
-・ [Malicious Domains](#Malicious_Domains)[]
+・ [Malicious Domains](#Malicious_Domains)
 
 ### Datasets
 
