@@ -31,6 +31,8 @@ Popular datasets on security used in research and workshops
 
 ・ [Automotive Controller Area Network (CAN) Bus Intrusion Dataset v2](https://data.4tu.nl/articles/dataset/Automotive_Controller_Area_Network_CAN_Bus_Intrusion_Dataset/12696950)[14]
 
+・ [MQTT-IOT-IDS2020: MQTT INTERNET OF THINGS INTRUSION DETECTION DATASET](https://ieee-dataport.org/open-access/mqtt-iot-ids2020-mqtt-internet-things-intrusion-detection-dataset)[16]
+
 ##### Malware 
 ・ [Malware Training Sets](https://marcoramilli.com/2016/12/16/malware-training-sets-a-machine-learning-dataset-for-everyone/)[7]
 
@@ -92,3 +94,5 @@ Popular datasets on security used in research and workshops
 [14] Automotive Controller Area Network (CAN) Bus Intrusion Dataset v2 , <https://data.4tu.nl/articles/dataset/Automotive_Controller_Area_Network_CAN_Bus_Intrusion_Dataset/12696950>
 
 [15] Roussev, V., An Evaluation of Forensic Similarity Hashes. In Proceedings of the Eleventh Annual DFRWS Conference, pp. S34-41, Aug 2011, New Orleans, LA.
+
+[16] Hindy, Hanan, Ethan Bayne, Miroslav Bures, Robert Atkinson, Christos Tachtatzis, and Xavier Bellekens. "Machine Learning Based IoT Intrusion Detection System: An MQTT Case Study (MQTT-IoT-IDS2020 Dataset)." In International Networking Conference, pp. 73-84. Springer, Cham, 2020.
