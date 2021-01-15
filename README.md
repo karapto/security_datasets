@@ -69,7 +69,7 @@ Popular datasets on security used in research and workshops
 ###### Image_dataset
 ・[The t5 corpus](http://roussev.net/t5/t5.html)[15]
 
-### Citation
+### Citation and Reference
 [1] Tavallaee, Mahbod, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. "A detailed analysis of the KDD CUP 99 data set." In 2009 IEEE symposium on computational intelligence for security and defense applications, pp. 1-6. IEEE, 2009.
 
 [2] Panigrahi, Ranjit, and Samarjeet Borah. "A detailed analysis of CICIDS2017 dataset for designing Intrusion Detection Systems." International Journal of Engineering & Technology 7, no. 3.24 (2018): 479-482.
