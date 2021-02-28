@@ -74,6 +74,8 @@ Popular datasets on security used in research and workshops
 
 ・[INTRUSION DETECTION IN CAN BUS](https://ieee-dataport.org/documents/intrusion-detection-can-bus)[18]
 
+・[IN-VEHICLE NETWORK INTRUSION DETECTION CHALLENGE](https://ocslab.hksecurity.net/Datasets/datachallenge2019/car)[19]
+
 
 ### Citation and Reference
 [1] Tavallaee, Mahbod, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. "A detailed analysis of the KDD CUP 99 data set." In 2009 IEEE symposium on computational intelligence for security and defense applications, pp. 1-6. IEEE, 2009.
@@ -111,3 +113,5 @@ Popular datasets on security used in research and workshops
 [17] Hanselmann, Markus, Thilo Strauss, Katharina Dormann, and Holger Ulmer. "CANet: An unsupervised intrusion detection system for high dimensional CAN bus data." IEEE Access 8 (2020): 58194-58205.
 
 [18] Muhammad Sami, December 30, 2019, "Intrusion Detection in CAN bus", IEEE Dataport, doi: https://dx.doi.org/10.21227/24m9-a446.
+
+[19] Mee Lan Han, Byung Il Kwak, and Huy Kang Kim. “Anomaly intrusion detection method for vehicular networks based on survival analysis.” Vehicular Communications 14 (2018): 52-63.
