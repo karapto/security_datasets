@@ -93,6 +93,8 @@ Popular datasets on security used in research and workshops
 ##### Game
 ・[Game-Contagion](https://sites.google.com/a/hksecurity.net/ocslab/game_contagion)[22]
 
+・[Game Bot Detection](https://sites.google.com/a/hksecurity.net/ocslab/Datasets/game-bot-detection)[23]
+
 
 ### Citation and Reference
 [1] Tavallaee, Mahbod, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. "A detailed analysis of the KDD CUP 99 data set." In 2009 IEEE symposium on computational intelligence for security and defense applications, pp. 1-6. IEEE, 2009.
@@ -138,3 +140,5 @@ Popular datasets on security used in research and workshops
 [21] Han, M. L., Kwak, B. I., & Kim, H. K. (2019). CBR-Based Decision Support Methodology for Cybercrime Investigation: Focused on the Data-Driven Website Defacement Analysis. Security and Communication Networks, 2019.
 
 [22] Woo, Jiyoung, et al. "Contagion of Cheating Behaviors in Online Social Networks." IEEE Access 6 (2018): 29098-29108.
+
+[23] Kang, A. R., Jeong, S. H., Mohaisen, A., & Kim, H. K. (2016). Multimodal game bot detection using user behavioral characteristics. SpringerPlus, 5(1), 1-19.
