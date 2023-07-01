@@ -1,6 +1,11 @@
 # Security Datasets
 
-Popular datasets on security used in research and workshops
+Popular datasets on security used in research and workshops.
+
+If you do not know how to use the following datasets, please let me know.
+If I have time, I will look into it and implement a Python script or Jupyter notebook.
+
+---------------------------------------
 
 ### List
 
@@ -22,6 +27,7 @@ Popular datasets on security used in research and workshops
 
 ・ [Game](#Game)
 
+---------------------------------------
 
 ### Datasets
 
@@ -105,6 +111,7 @@ Popular datasets on security used in research and workshops
 
 ・[Game Bot Detection](https://sites.google.com/a/hksecurity.net/ocslab/Datasets/game-bot-detection)[23]
 
+---------------------------------------
 
 ### Citation and Reference
 [1] Tavallaee, Mahbod, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. "A detailed analysis of the KDD CUP 99 data set." In 2009 IEEE symposium on computational intelligence for security and defense applications, pp. 1-6. IEEE, 2009.
