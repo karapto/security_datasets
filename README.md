@@ -67,6 +67,16 @@ Popular datasets on security used in research and workshops
 
 ・ [Malicious and Benign Websites](https://www.kaggle.com/xwolf12/malicious-and-benign-websites)[12]
 
+・ [Detecting Malicious URLs](http://www.sysnet.ucsd.edu/projects/url/)
+
+・[Feodo Tracker](https://feodotracker.abuse.ch/)
+
+・[OpenDNS Top Domains List](https://github.com/opendns/public-domain-lists)
+
+・[The Majestic Million](https://majestic.com/reports/majestic-million)
+
+・[StopForumSpam](https://www.stopforumspam.com/downloads)
+
 ##### Dark_web
 ・ [CIC-Darknet2020](https://www.unb.ca/cic/datasets/darknet2020.html)
 
