@@ -111,6 +111,9 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 
 ・[Game Bot Detection](https://sites.google.com/a/hksecurity.net/ocslab/Datasets/game-bot-detection)[23]
 
+##### Hardware Trojan
+・[Hardware-Security](https://github.com/IamVNIE/Hardware-Security/tree/master)
+
 ---------------------------------------
 
 ### Citation and Reference
@@ -161,3 +164,4 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 [23] Kang, A. R., Jeong, S. H., Mohaisen, A., & Kim, H. K. (2016). Multimodal game bot detection using user behavioral characteristics. SpringerPlus, 5(1), 1-19.
 
 [24] Zago, Mattia; Longari, Stefano; Tricarico, Andrea; Carminati, Michele; Gil Pérez, Manuel; Martinez Perez, Gregorio; Zanero, Stefano (2020), “ReCAN Data - Reverse engineering of Controller Area Networks”, Mendeley Data, V2, doi: 10.17632/76knkx3fzv.2
+
