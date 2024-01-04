@@ -27,7 +27,7 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 
 ・ [Game](#Game)
 
-・ [Hardware_Trojan] (#Hardware_Trojan)
+・ [Hardware_Trojan](#Hardware_Trojan)
 
 ---------------------------------------
 
