@@ -27,7 +27,7 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 
 ・ [Game](#Game)
 
-・ [Hardware_Trojan] (#Hardware Trojan)
+・ [Hardware_Trojan] (#Hardware_Trojan)
 
 ---------------------------------------
 
@@ -113,7 +113,7 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 
 ・[Game Bot Detection](https://sites.google.com/a/hksecurity.net/ocslab/Datasets/game-bot-detection)[23]
 
-##### Hardware Trojan
+##### Hardware_Trojan
 ・[Hardware-Security](https://github.com/IamVNIE/Hardware-Security/tree/master)
 
 ・[Hardware Trojan Power & EM Side-Channel Dataset](https://cadforassurance.org/tools/sca/hardware-trojan-power-em-side-channel-dataset/)[25]
