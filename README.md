@@ -27,6 +27,8 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 
 ・ [Game](#Game)
 
+・ [Hardware_Trojan] (#Hardware Trojan)
+
 ---------------------------------------
 
 ### Datasets
@@ -114,6 +116,8 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 ##### Hardware Trojan
 ・[Hardware-Security](https://github.com/IamVNIE/Hardware-Security/tree/master)
 
+・[Hardware Trojan Power & EM Side-Channel Dataset](https://cadforassurance.org/tools/sca/hardware-trojan-power-em-side-channel-dataset/)[25]
+
 ---------------------------------------
 
 ### Citation and Reference
@@ -165,3 +169,4 @@ If I have time, I will look into it and implement a Python script or Jupyter not
 
 [24] Zago, Mattia; Longari, Stefano; Tricarico, Andrea; Carminati, Michele; Gil Pérez, Manuel; Martinez Perez, Gregorio; Zanero, Stefano (2020), “ReCAN Data - Reverse engineering of Controller Area Networks”, Mendeley Data, V2, doi: 10.17632/76knkx3fzv.2
 
+[25] Faezi, Sina, Rozhin Yasaei, Anomadarshi Barua, and Mohammad Abdullah Al Faruque. "Brain-inspired golden chip free hardware trojan detection." IEEE Transactions on Information Forensics and Security 16 (2021): 2697-2708.
